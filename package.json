@@ -1,0 +1,30 @@
+{
+  "name": "announceer",
+  "version": "1.0.0",
+  "description": "EVENT BOOKING AMD UPDATES APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DONNWILZY/announceer.git"
+  },
+  "keywords": [
+    "ANNOUNCEER",
+    "EVENT",
+    "PUBLICITY",
+    "UPDATES",
+    "BLOG",
+    "NEWS"
+  ],
+  "author": "EFFIONG GODSWILL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DONNWILZY/announceer/issues"
+  },
+  "homepage": "https://github.com/DONNWILZY/announceer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
